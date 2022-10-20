@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sinpewinkbackend-dev-200919-authRole",
+      "UnauthRoleArn": "arn:aws:iam::191878012471:role/amplify-sinpewinkbackend-dev-200919-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::191878012471:role/amplify-sinpewinkbackend-dev-200919-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-sinpewinkbackend-dev-200919-deployment",
+      "UnauthRoleName": "amplify-sinpewinkbackend-dev-200919-unauthRole",
+      "StackName": "amplify-sinpewinkbackend-dev-200919",
+      "StackId": "arn:aws:cloudformation:us-east-2:191878012471:stack/amplify-sinpewinkbackend-dev-200919/36fba040-501c-11ed-94b9-061ed7d82fb2",
+      "AmplifyAppId": "d1jq5n1ttt5yuc"
+    }
+  }
+}
