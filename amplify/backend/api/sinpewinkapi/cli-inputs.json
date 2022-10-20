@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "paths": {
+    "/saveAccount": {
+      "name": "/saveAccount",
+      "lambdaFunction": "SaveAccount",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/findByIdAccount/{id}": {
+      "name": "/findByIdAccount/{id}",
+      "lambdaFunction": "FindByIdAccount",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/saveMovement": {
+      "name": "/saveMovement",
+      "lambdaFunction": "SaveMovement",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
